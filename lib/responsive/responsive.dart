@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:responsive_design/responsive/dimestion.dart';
+import 'package:responsive_design/responsive/dimension.dart';
 
 class ResponsiveLayout extends StatelessWidget {
   final Widget mobileBody;
